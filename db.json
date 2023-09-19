@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Golden Pothos",
+      "image": "https://www.fast-growing-trees.com/cdn/shop/products/Golden_Pothos_5_FGT.jpg?v=1626903728&width=1000",
+      "price": 19.95,
+      "id": 8
     }
   ]
 }

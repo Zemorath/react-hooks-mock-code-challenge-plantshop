@@ -1,9 +1,7 @@
 import React from "react";
 import PlantCard from "./PlantCard";
 
-function PlantList({ plants, filteredPlants, setFilteredPlants, search }) {
-
-  // console.log(filteredPlants)
+function PlantList({ plants, search }) {
 
   const filteredItems = plants.filter((plant) => {
     if (search == '') {
